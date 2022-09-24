@@ -13,6 +13,7 @@ I'm a college student who desires to become a full-stack developer.
 ### Also Knows But Wants to Get Better
 - NodeJS/Express.js
 - MySQL
+- Webpack
 - Elasticsearch
 - Kubernetes
 - GLSL
@@ -20,4 +21,6 @@ I'm a college student who desires to become a full-stack developer.
 # My Accounts
 StackOverflow: https://stackoverflow.com/users/11809476/ziperz-the-unbeaten \
 CodeSandbox: https://codesandbox.io/u/ZiperZ \
-Shadertoy:   https://www.shadertoy.com/user/Varyemez
+LeetCode: https://leetcode.com/ZiperZ/ \
+HackerRank: https://www.hackerrank.com/ZiperZ \
+Shadertoy: https://www.shadertoy.com/user/Varyemez
