@@ -2,7 +2,7 @@
 ![fractal](/ziperian_julia_fractal.png)
 
 ## Who Am I?
-I'm a college student who desires to become a full-stack developer.
+I'm a student who desires to become a full-stack developer.
 
 ## Skills
 ### Knows Enough of
